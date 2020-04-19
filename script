@@ -1,0 +1,3 @@
+echo $TestVar 
+num=TestVar+TestVar1
+echo $num
