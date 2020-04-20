@@ -1,3 +1,5 @@
 echo $TestVar 
 num=$(($TestVar+$TestVar1))
 echo $num
+
+echo "This got triggered" 
