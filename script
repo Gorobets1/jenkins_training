@@ -2,5 +2,5 @@ echo $TestVar
 echo "added line"
 num=$(($TestVar+$TestVar1))
 echo $num
-
+echo "new line"
 echo "This got triggered" 
